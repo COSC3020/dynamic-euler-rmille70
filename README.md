@@ -18,3 +18,5 @@ but you need to go beyond that.
 ## Runtime Analysis
 
 What is the worst-case big $\Theta$ time complexity of your algorithm?
+
+Now that we have removed the recursive aspects the function, the worst case the time complexity is just linear since all we have are a few constant time operations and a for loop operating n times. Thus the worst case time complexity for the updated function can be bounded by $\Theta(n)$
