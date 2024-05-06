@@ -9,9 +9,3 @@ function e(n) {
     return sum;
 }
 
-console.log(e(0));
-console.log(e(1));
-console.log(e(2));
-console.log(e(4));
-console.log(e(10
-));
